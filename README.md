@@ -13,3 +13,7 @@
 # Singular Value Decomposition recommendations
 
 ![3](https://user-images.githubusercontent.com/114779060/219329552-852efb69-2c53-4e97-ba66-90d18c3396f9.jpg)
+
+# hybrid model ensembling content and rbm models 
+
+![4](https://user-images.githubusercontent.com/114779060/219330452-7d576395-69de-4647-9b71-4718e7141dbf.jpg)
