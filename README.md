@@ -5,3 +5,7 @@
 # content based filtering on genre and yearwise popularity seperately and combining results
 
 ![1](https://user-images.githubusercontent.com/114779060/219328092-ec51f12f-4300-415a-8f77-6580a74c876f.jpg)
+
+# user-user and item-item based collobartive filtering
+
+![2](https://user-images.githubusercontent.com/114779060/219328597-725cbddd-1537-437f-b7d2-5f003c8d2d42.jpg)
